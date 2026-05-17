@@ -42,7 +42,7 @@ export default function LandingPage() {
       description="Lake County Off Road delivers expert automotive service for your 4x4, from routine maintenance to custom lift kits and diagnostics. Local expertise, straightforward service."
       buttons={[{ text: "Call Us: 707-275-8828", href: "tel:7072758828" }]}
       buttonAnimation="slide-up"
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-9bt8o2mc.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-9bt8o2mc.jpg?_wi=1"
     />
   </div>
 
@@ -51,16 +51,16 @@ export default function LandingPage() {
       textboxLayout="default"
       useInvertedBackground={true}
       features={[
-        { title: "Automotive Repair", description: "Full-service mechanical repairs.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-2eb9gdu3.jpg" },
-        { title: "Lift Kits", description: "Custom suspension modifications.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-c8ryhyrl.jpg" },
-        { title: "Diagnostic Testing", description: "Advanced electronic diagnostics.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-zrdqjnwx.jpg" },
-        { title: "Tires & Rims", description: "Off-road and street tire services.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-9bt8o2mc.jpg" },
+        { title: "Automotive Repair", description: "Full-service mechanical repairs.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-2eb9gdu3.jpg?_wi=1" },
+        { title: "Lift Kits", description: "Custom suspension modifications.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-c8ryhyrl.jpg?_wi=1" },
+        { title: "Diagnostic Testing", description: "Advanced electronic diagnostics.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-zrdqjnwx.jpg?_wi=1" },
+        { title: "Tires & Rims", description: "Off-road and street tire services.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-9bt8o2mc.jpg?_wi=2" },
         { title: "Tune Ups & Oil", description: "Routine engine maintenance.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-ev0czn5d.jpg" },
-        { title: "Mufflers & Exhaust", description: "Custom and standard exhaust work.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-zrdqjnwx.jpg" },
-        { title: "AC & Fluid Flush", description: "Cooling and fluid systems.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-2eb9gdu3.jpg" },
-        { title: "Shocks & Trailer Repair", description: "Heavy-duty suspension and towing.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-c8ryhyrl.jpg" },
-        { title: "Flat Repair", description: "Emergency tire puncture service.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-zrdqjnwx.jpg" },
-        { title: "Fluids Check", description: "Essential fluid analysis.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-2eb9gdu3.jpg" }
+        { title: "Mufflers & Exhaust", description: "Custom and standard exhaust work.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-zrdqjnwx.jpg?_wi=2" },
+        { title: "AC & Fluid Flush", description: "Cooling and fluid systems.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-2eb9gdu3.jpg?_wi=2" },
+        { title: "Shocks & Trailer Repair", description: "Heavy-duty suspension and towing.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-c8ryhyrl.jpg?_wi=2" },
+        { title: "Flat Repair", description: "Emergency tire puncture service.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-zrdqjnwx.jpg?_wi=3" },
+        { title: "Fluids Check", description: "Essential fluid analysis.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-2eb9gdu3.jpg?_wi=3" }
       ]}
       title="Our Expert Services"
       description="Comprehensive automotive care designed for high-performance off-road vehicles."
@@ -87,9 +87,9 @@ export default function LandingPage() {
       title="Performance Parts"
       description="Upgrade your off-road machine with our premium parts selection."
       products={[
-        { id: "p1", name: "High-Grip Tires", price: "$200", description: "High-grip tires for all terrain types.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-9bt8o2mc.jpg" },
-        { id: "p2", name: "Suspension Kit", price: "$450", description: "Adjustable suspension for extreme clearance.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-c8ryhyrl.jpg" },
-        { id: "p3", name: "Air Intake System", price: "$150", description: "Optimized airflow for better power delivery.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-zrdqjnwx.jpg" }
+        { id: "p1", name: "High-Grip Tires", price: "$200", description: "High-grip tires for all terrain types.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-9bt8o2mc.jpg?_wi=3" },
+        { id: "p2", name: "Suspension Kit", price: "$450", description: "Adjustable suspension for extreme clearance.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-c8ryhyrl.jpg?_wi=3" },
+        { id: "p3", name: "Air Intake System", price: "$150", description: "Optimized airflow for better power delivery.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-zrdqjnwx.jpg?_wi=4" }
       ]}
       animationType="slide-up"
       textboxLayout="default"
@@ -105,7 +105,7 @@ export default function LandingPage() {
       tag="Contact Us"
       title="Visit or Call Our Shop"
       description="Located in Upper Lake, CA. Serving all off-road enthusiasts with transparent, expert care."
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-c8ryhyrl.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-c8ryhyrl.jpg?_wi=4"
     />
   </div>
 
