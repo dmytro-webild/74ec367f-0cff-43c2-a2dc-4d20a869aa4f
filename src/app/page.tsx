@@ -104,7 +104,7 @@ export default function LandingPage() {
       background={{ variant: "plain" }}
       tag="Contact Us"
       title="Visit or Call Our Shop"
-      description="Located in Upper Lake, CA. Serving all off-road enthusiasts with transparent, expert care."
+      description="Located at 325 W Hwy 20, Upper Lake, CA 95485. Serving all off-road enthusiasts with transparent, expert care."
       imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-c8ryhyrl.jpg?_wi=4"
     />
   </div>
@@ -114,7 +114,7 @@ export default function LandingPage() {
       logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-ev0czn5d.jpg"
       logoText="Lake County Off Road"
       columns={[
-        { title: "Address", items: [{ label: "Upper Lake County, CA", href: "#" }] },
+        { title: "Address", items: [{ label: "325 W Hwy 20, Upper Lake, CA 95485", href: "#" }] },
         { title: "Phone", items: [{ label: "707-275-8828", href: "tel:7072758828" }] },
         { title: "Support", items: [{ label: "Email Us", href: "mailto:info@lakecountyoffroad.com" }] }
       ]}
