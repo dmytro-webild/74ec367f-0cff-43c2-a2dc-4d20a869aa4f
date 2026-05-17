@@ -39,7 +39,7 @@ export default function LandingPage() {
   <div id="hero" data-section="hero">
       <HeroLogo
       logoText="4x4 Repair Specialists You Can Trust"
-      description="Local expertise, straightforward service."
+      description=""
       buttons={[{ text: "Call Us: 707-275-8828", href: "tel:7072758828" }]}
       buttonAnimation="slide-up"
       imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057322913-nozly7l7.jpg"
