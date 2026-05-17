@@ -84,6 +84,8 @@ export default function LandingPage() {
 
   <div id="product" data-section="product">
       <ProductCardOne
+      title="Performance Parts"
+      description="Upgrade your off-road machine with our premium parts selection."
       products={[
         { id: "p1", name: "High-Grip Tires", price: "$200", description: "High-grip tires for all terrain types.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-9bt8o2mc.jpg" },
         { id: "p2", name: "Suspension Kit", price: "$450", description: "Adjustable suspension for extreme clearance.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-c8ryhyrl.jpg" },
