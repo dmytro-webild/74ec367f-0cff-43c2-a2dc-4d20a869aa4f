@@ -85,9 +85,9 @@ export default function LandingPage() {
   <div id="product" data-section="product">
       <ProductCardOne
       products={[
-        { id: "p1", description: "High-grip tires for all terrain types.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-9bt8o2mc.jpg" },
-        { id: "p2", description: "Adjustable suspension for extreme clearance.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-c8ryhyrl.jpg" },
-        { id: "p3", description: "Optimized airflow for better power delivery.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-zrdqjnwx.jpg" }
+        { id: "p1", name: "High-Grip Tires", price: "$200", description: "High-grip tires for all terrain types.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-9bt8o2mc.jpg" },
+        { id: "p2", name: "Suspension Kit", price: "$450", description: "Adjustable suspension for extreme clearance.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-c8ryhyrl.jpg" },
+        { id: "p3", name: "Air Intake System", price: "$150", description: "Optimized airflow for better power delivery.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-zrdqjnwx.jpg" }
       ]}
       animationType="slide-up"
       textboxLayout="default"
