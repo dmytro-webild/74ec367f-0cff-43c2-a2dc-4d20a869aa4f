@@ -56,7 +56,7 @@ export default function LandingPage() {
         },
       ]}
       buttonAnimation="slide-up"
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-9bt8o2mc.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-9bt8o2mc.jpg?_wi=1"
     />
   </div>
 
@@ -68,22 +68,22 @@ export default function LandingPage() {
         {
           title: "Automotive Repair",
           description: "Full-service mechanical repairs.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-2eb9gdu3.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-2eb9gdu3.jpg?_wi=1",
         },
         {
           title: "Lift Kits",
           description: "Custom suspension modifications.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-c8ryhyrl.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-c8ryhyrl.jpg?_wi=1",
         },
         {
           title: "Diagnostic Testing",
           description: "Advanced electronic diagnostics.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-zrdqjnwx.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-zrdqjnwx.jpg?_wi=1",
         },
         {
           title: "Tires & Rims",
           description: "Off-road and street tire services.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-9bt8o2mc.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-9bt8o2mc.jpg?_wi=2",
         },
         {
           title: "Tune Ups & Oil",
@@ -93,27 +93,27 @@ export default function LandingPage() {
         {
           title: "Mufflers & Exhaust",
           description: "Custom and standard exhaust work.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-zrdqjnwx.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-zrdqjnwx.jpg?_wi=2",
         },
         {
           title: "AC & Fluid Flush",
           description: "Cooling and fluid systems.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-2eb9gdu3.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-2eb9gdu3.jpg?_wi=2",
         },
         {
           title: "Shocks & Trailer Repair",
           description: "Heavy-duty suspension and towing.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-c8ryhyrl.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-c8ryhyrl.jpg?_wi=2",
         },
         {
           title: "Flat Repair",
           description: "Emergency tire puncture service.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-zrdqjnwx.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-zrdqjnwx.jpg?_wi=3",
         },
         {
           title: "Fluids Check",
           description: "Essential fluid analysis.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-2eb9gdu3.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-2eb9gdu3.jpg?_wi=3",
         },
       ]}
       title="Our Expert Services"
@@ -178,7 +178,7 @@ export default function LandingPage() {
       tag="Contact Us"
       title="Visit or Call Our Shop"
       description="Located in Upper Lake, CA. Serving all off-road enthusiasts with transparent, expert care."
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-c8ryhyrl.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-c8ryhyrl.jpg?_wi=3"
     />
   </div>
 
