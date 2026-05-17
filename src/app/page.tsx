@@ -87,9 +87,9 @@ export default function LandingPage() {
       title="Performance Parts"
       description="Upgrade your off-road machine with our premium parts selection."
       products={[
-        { id: "p1", name: "High-Grip Tires", price: "$200", description: "High-grip tires for all terrain types.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/tmp/off-road-tires-1779058123007-0df8c051.png" },
-        { id: "p2", name: "Suspension Kit", price: "$450", description: "Adjustable suspension for extreme clearance.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/tmp/high-quality-off-road-suspension-1779058088281-1c86e5d6.png" },
-        { id: "p3", name: "Air Intake System", price: "$150", description: "Optimized airflow for better power delivery.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/tmp/off-road-wheels-rims-1779058167933-1e0888af.png" }
+        { id: "p1", name: "High-Grip Tires", price: "", description: "High-grip tires for all terrain types.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/tmp/off-road-tires-1779058123007-0df8c051.png" },
+        { id: "p2", name: "Suspension Kit", price: "", description: "Adjustable suspension for extreme clearance.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/tmp/high-quality-off-road-suspension-1779058088281-1c86e5d6.png" },
+        { id: "p3", name: "Air Intake System", price: "", description: "Optimized airflow for better power delivery.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/tmp/off-road-wheels-rims-1779058167933-1e0888af.png" }
       ]}
       animationType="slide-up"
       textboxLayout="default"
