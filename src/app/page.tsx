@@ -39,7 +39,7 @@ export default function LandingPage() {
   <div id="hero" data-section="hero">
       <HeroLogo
       logoText="4x4 Repair Specialists You Can Trust"
-      description="Lake County Off Road delivers expert automotive service for your 4x4, from routine maintenance to custom lift kits and diagnostics. Local expertise, straightforward service."
+      description="Local expertise, straightforward service."
       buttons={[{ text: "Call Us: 707-275-8828", href: "tel:7072758828" }]}
       buttonAnimation="slide-up"
       imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057322913-nozly7l7.jpg"
