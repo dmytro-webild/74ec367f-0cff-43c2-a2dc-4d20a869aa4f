@@ -32,7 +32,7 @@ export default function LandingPage() {
         { name: "Services", id: "services" },
         { name: "Contact", id: "contact" },
       ]}
-      brandName=""
+      brandName="Lake County Off Road"
     />
   </div>
 
