@@ -42,7 +42,7 @@ export default function LandingPage() {
       description=""
       buttons={[{ text: "Call Us: 707-275-8828", href: "tel:7072758828" }]}
       buttonAnimation="slide-up"
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779058556105-4xoe51d4.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779301549395-9x2lbgzz.jpg"
     />
   </div>
 
