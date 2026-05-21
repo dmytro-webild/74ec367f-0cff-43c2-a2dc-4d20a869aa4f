@@ -51,7 +51,7 @@ export default function LandingPage() {
       textboxLayout="default"
       useInvertedBackground={true}
       features={[
-        { title: "Automotive Repair", description: "Full-service mechanical repairs.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057613298-dcgz8siy.jpg" },
+        { title: "Automotive Repair", description: "Full-service mechanical repairs.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779399595608-5fsnpltm.jpg" },
         { title: "Lift Kits", description: "Custom suspension modifications.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-c8ryhyrl.jpg?_wi=1" },
         { title: "Diagnostic Testing", description: "Advanced electronic diagnostics.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/tmp/diagnostic-testing-for-truck-1779057642048-1eae9298.png" },
         { title: "Tires & Rims", description: "Off-road and street tire services.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/tmp/selection-of-off-road-and-street-tires-1779058403616-092edf42.png" },
