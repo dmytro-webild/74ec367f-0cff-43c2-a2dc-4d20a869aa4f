@@ -58,8 +58,8 @@ export default function LandingPage() {
         { title: "Tune Ups & Oil", description: "Routine engine maintenance.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779057063923-ev0czn5d.jpg" },
         { title: "Mufflers & Exhaust", description: "Custom and standard exhaust work.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/tmp/mufflers-and-exhaust-install-1779057756029-ead2febf.png" },
         { title: "Air Conditioning", description: "Cooling and fluid systems.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/tmp/car-truck-ac-1779058253058-1dfe647b.png" },
-        { title: "Shocks & Trailer Repair", description: "Heavy-duty suspension and towing.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/tmp/shocks-suspension-being-installe-1779057890639-265b1067.png" },
-        { title: "Towing", description: "All-terrain towing, on-road or off-road", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779399381561-uqowkw7v.jpg" },
+        { title: "Shocks & Suspension", description: "Heavy-duty products for your next journey", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/tmp/shocks-suspension-being-installe-1779057890639-265b1067.png" },
+        { title: "Towing", description: "All-terrain towing, on-road or off-road", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1779400139941-gfep2fxg.jpg" },
         { title: "Fluids Check", description: "Essential fluid analysis.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/tmp/truck-fluid-check-1779057971047-8f798e06.png" }
       ]}
       title="Our Expert Services"
